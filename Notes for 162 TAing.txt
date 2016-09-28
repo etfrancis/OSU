@@ -1,0 +1,14 @@
+161-162 gaps: pointers
+how to use linux, vim, makefile
+lab, assignment individual
+group activity each week - work together - one doc
+week 3 test
+week 9 project, due tuesday of final week
+No final exam
+
+182 students
+9 TAs, full load, plus 2 half
+Each of us gets one group of students
+24 hour response time
+for grading, return within one week, ideally within 4 days
+assignments are due on sunday, release by thursday
